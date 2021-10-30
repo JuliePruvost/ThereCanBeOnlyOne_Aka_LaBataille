@@ -1,6 +1,11 @@
 # ThereCanBeOnlyOne_Aka_LaBataille
 It's a 50/50, you either win or you don't
 
+Ouvrez le fichier Sources/LaBataille.sln dans visual studio par exemple.
+Compilez la solution.
+Vous pouvez executer directement le projet console, sans arguments. Il y aura des instructions directement sur le flux de la console.
+
+
 Voici des choix que j'ai effectué : 
 - si lors d'une bataille, un joueur n'a pas assez de carte dans son paquet lorsqu'il doit tirer une nouvelle carte (visible ou cachée) il perd automatiquement. C'est une version un peu simplifiée par rapport a des versions de jeu ou il a la possibilité de piocher dans le paquet d'une autre personne.
 - pour le second mode de jeu, j'ai considéré qu'on pouvait donner n'importe quel ensemble de cartes a chacun des joueurs (pas forcément un nombre de cartes identiques)
