@@ -1,5 +1,8 @@
 # ThereCanBeOnlyOne_Aka_LaBataille
-It's a 50/50, you either win or you don't
+# Job Interview test code
+# Jeu de la bataille en mode console, auto, multi joueurs, multi parties
+
+# launch instructions
 
 Ouvrez le fichier Sources/LaBataille.sln dans visual studio par exemple.
 Compilez la solution.
